@@ -1,0 +1,216 @@
+read_extract,code_desc,impact_score
+M....,Skin and subcutaneous tissue diseases,1
+H1...,Other upper respiratory tract diseases,10
+S4...,Dislocations and subluxations,10
+G8...,"Vein, lymphatic and circulatory diseases NOS",100
+Ny...,Other specified diseases of musculoskeletal or connective tissue,100
+N2...,"Rheumatism, excluding the back",10
+AB...,Mycoses,10
+Fy...,Other specified diseases of nervous system or sense organ,10
+F5...,Diseases of the ear and mastoid process,1
+C11..,Other disorders of pancreatic internal secretion,10
+C10..,Diabetes mellitus,1
+75...,Mouth operations,10
+7G...,Skin operations,10
+7L...,Miscellaneous operations,10
+66A..,Diabetic monitoring,1
+N1...,Vertebral column syndromes,10
+A7...,Other viral and chlamydial diseases,1
+SD...,Superficial injury,1
+7E...,Upper female genital tract operations,100
+S....,Injury and poisoning,10
+S8...,"Open wound of head, neck and trunk",100
+D....,Diseases of blood and blood-forming organs,10
+K5...,Other female genital tract disorders,10
+E2...,"Neurotic, personality and other nonpsychotic disorders",1
+H0...,Acute respiratory infections,100
+J0...,"Oral cavity, salivary glands and jaw diseases",1
+J1...,"Oesophageal, stomach and duodenal diseases",10
+N....,Musculoskeletal and connective tissue diseases,100
+H....,Respiratory system diseases,100
+S6...,Intracranial injury excluding those with skull fracture,100
+G2...,Hypertensive disease,100
+S3...,Fracture of lower limb,100
+C3...,Other metabolic and immunity disorders,1
+74...,Respiratory tract operations,100
+662..,Cardiac disease monitoring,10
+66C..,Obesity monitoring,100
+N0...,Arthropathies and related disorders,1
+J5...,Other diseases of the intestines and peritoneum,1
+SK...,Traumatic complications and unspecified injuries,10
+G3...,Ischaemic heart disease,100
+A3...,Other bacterial diseases,1
+J4...,Noninfective enteritis and colitis,1
+G5...,Other forms of heart disease,10
+H5...,Other respiratory system diseases,100
+B7...,Benign neoplasms,1
+C37..,Other disorders of metabolism,1
+C32..,Disorders of lipoid metabolism,1
+79...,Heart operations,100
+7P...,"Diagnostic imaging, testing and rehabilitation",1
+7K...,Other bone and joint operations,10
+661..,Chronic disease - general,1
+A5...,Viral diseases with exanthem,1
+K2...,Male genital organ diseases,10
+K....,Genitourinary system diseases,1
+F....,Nervous system and sense organ diseases,10
+G....,Circulatory system diseases,100
+7C...,Male genital organ operations,100
+F4...,Disorders of eye and adnexa,1
+A0...,Intestinal infectious diseases,10
+SE...,Contusion (bruise) with intact skin,1
+S9...,Open wound of upper limb,1
+N3...,"Osteopathies, chondropathies and acquired musculoskeletal deformities",10
+K3...,Disorders of breast,1
+K1...,Other urinary system diseases,1
+S5...,Sprains and strains of joints and adjacent muscles,10
+G7...,"Arterial, arteriole and capillary disease",10
+70...,Nervous system operations,100
+71...,Endocrine system and breast operations,100
+7B...,Urinary operations,10
+72...,Eye operations,10
+76...,Upper digestive tract operations,10
+BB...,[M]Morphology of neoplasms,100
+B6...,Malignant neoplasm of lymphatic and haemopoietic tissue,100
+G6...,Cerebrovascular disease,10
+77...,Lower digestive tract operations,100
+7J...,"Skull or spine, bone and joint operations",100
+SL...,Poisoning,10
+Eu...,[X]Mental and behavioural disorders,1
+S2...,Fracture of upper limb,10
+E1...,Non-organic psychoses,1
+B1...,Malignant neoplasm of digestive organs and peritoneum,100
+78...,Other abdominal organ operations,100
+B3...,"Malignant neoplasm of bone, connective tissue, skin and breast",100
+J6...,"Liver, biliary, pancreas + gastrointestinal diseases NEC",10
+F3...,Peripheral nervous system disorders,100
+SH...,Burns,100
+6C...,Primary prevention,1
+7F...,Obstetric operations,100
+K0...,"Nephritis, nephrosis and nephrotic syndrome",10
+7H...,Soft tissue operations,10
+F1...,Hereditary and degenerative diseases of the central nervous system,1
+73...,Ear operations,1
+C38..,Obesity and other hyperalimentation,100
+F2...,Other central nervous system disorders,100
+SN...,Other and unspecified external effect causes,1
+C04..,Acquired hypothyroidism,1
+C06..,Other disorders of thyroid,1
+C28..,Vitamin D deficiency,10
+K4...,Female pelvic inflammatory diseases,10
+B8...,Carcinoma in situ,1
+E0...,Organic psychotic conditions,1
+J3...,Hernia of abdominal cavity,1
+C36..,"Disorders of fluid, electrolyte and acid-base balance",1
+7D...,Lower female genital tract operations,100
+66f..,Cardiovascular disease monitoring,100
+H2...,Pneumonia and influenza,100
+C0A..,Congenital iodine deficiency syndrome,1
+D4...,White blood cell and other blood disorders,1
+A9...,Syphilis and other venereal diseases,1
+H3...,Chronic obstructive pulmonary disease,10
+AD...,Other infectious and parasitic diseases,1
+663..,Respiratory disease monitoring,10
+A6...,Arthropod-borne viral diseases,1
+SP...,Surgical and medical care complications NEC,100
+C00..,Simple and unspecified goitre,10
+C34..,Gout,10
+D1...,Haemolytic anaemias,10
+66Q..,Warfarin monitoring,1
+7A...,Artery and vein operations,100
+B9...,Neoplasms of uncertain behaviour,100
+D0...,Deficiency anaemias,100
+Az...,Infectious and parasitic diseases NOS,1
+Dy...,Other specified disorders of blood or blood forming organ,10
+AC...,Helminthiases,1
+B4...,Malignant neoplasm of genitourinary organ,100
+C2B..,Vitamin D insufficiency,10
+S1...,Fracture of neck and trunk,100
+S0...,Fracture of skull,100
+C....,"Endocrine, nutritional, metabolic and immunity disorders",1
+C0...,Disorders of thyroid gland,1
+J2...,Appendicitis and other disorders of the appendix,100
+C26..,Vitamin B-complex deficiency,10
+SG...,Foreign body (FB) in orifice,100
+D2...,Aplastic and other anaemias,10
+SR...,Injury involving multiple body regions,100
+J....,Digestive system diseases,1
+D3...,Clotting and bleeding disorders,10
+G4...,Pulmonary circulation diseases,100
+66H..,Rheumatol. disorder monitoring,100
+Sy...,[X] Injury and poisoning classification terms,1
+A1...,Tuberculosis,10
+SF...,Crushing injury,100
+B0...,"Malignant neoplasm of lip, oral cavity and pharynx",10
+B....,Neoplasms,10
+669..,Gout monitoring,10
+C35..,Disorders of mineral metabolism,1
+SA...,Open wound of lower limb,10
+Jy...,Other specified diseases of digestive system,10
+S7...,"Internal injury of chest, abdomen and pelvis",100
+A8...,Rickettsioses and other arthropod-borne diseases,100
+39...,Disability assessment-physical,100
+E....,Mental disorders,1
+A....,Infectious and parasitic diseases,1
+C29..,Other nutritional deficiencies,10
+C2...,Nutritional deficiencies,1
+SJ...,Nerve and spinal cord injuries,100
+C33..,Plasma protein metabolism disorders,10
+Fz...,Nervous system or sense organ disease NOS,10
+Ez...,Mental disorders NOS,1
+Jz...,Digestive system diseases NOS,1
+Nz...,Musculoskeletal and connective tissue diseases NOS,10
+Kz...,Genitourinary disease NOS,10
+66X..,Lipid disorder monitoring,10
+SC...,"Late effects of injury, poisoning, toxic effects and other external causes",1
+Ky...,Other specified diseases of genitourinary system,10
+F0...,Inflammatory diseases of the central nervous system,1
+Cyu..,"[X]Additional endocrine, nutritional, metabolic and immunity disease classification terms",10
+AA...,Other spirochaetal diseases,1
+Gz...,Circulatory system disease NOS,10
+C02..,Thyrotoxicosis,1
+H4...,Lung disease due to external agents,100
+Gy...,Other specified diseases of circulatory system,100
+C01..,Nontoxic nodular goitre,10
+C31..,Disorders of carbohydrate transport and metabolism,1
+Ay...,Other specified infectious or parasitic diseases,1
+C16..,Ovarian dysfunction,1
+SM...,Nonmedicinal agent causing toxic effects,10
+A4...,Poliomyelitis and other non-arthropod-borne viral diseases of central nervous system,1
+C05..,Thyroiditis,1
+C12..,Parathyroid gland disorders,1
+B5...,Malignant neoplasm of other and unspecified sites,1
+C19..,Multiple organ failure,100
+Dz...,Blood/blood forming organ NOS,10
+A2...,Zoonotic bacterial diseases,1
+Cz...,"Endocrine, nutritional, metabolic or immunity disorder NOS",1
+C1A..,Insulin resistance,1
+C15..,Disorders of adrenal glands,1
+6F...,Stroke prevention,10
+B2...,Malignant neoplasm of respiratory tract and intrathoracic organs,100
+By...,Neoplasms otherwise specified,100
+G0...,Acute rheumatic fever,10
+C17..,Testicular dysfunction,1
+C1z..,Other and unspecified endocrine disorders,1
+C13..,Disorders of pituitary gland and its hypothalamic control,1
+G1...,Chronic rheumatic heart disease,100
+C30..,Disorders of amino-acid transport and metabolism,1
+Hy...,Other specified diseases of respiratory system,100
+SS...,Accidental injury,100
+SB...,Injury to blood vessels,1
+C25..,Thiamine and niacin deficiency states,1
+C03..,Congenital hypothyroidism,1
+66n..,Chronic pain review,100
+C1...,Other endocrine gland diseases,10
+Sz...,Injury and poisoning NOS,10
+Bz...,Neoplasms NOS,100
+AE...,Late effects of infectious and parasitic diseases,1
+BA...,Unspecified nature neoplasm,100
+66e..,Alcohol disorder monitoring,100
+C39..,Disorders of the immune mechanism,1
+No...,,1
+EM...,,1
+BC...,Polyp,1
+E3...,Mental retardation,1
+G9...,Vascular calcification,1
+C27..,Ascorbic acid (vitamin C) deficiency,1
